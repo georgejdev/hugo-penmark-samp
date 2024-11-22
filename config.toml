@@ -1,0 +1,4 @@
+baseURL = 'https://hugo-penmark.netlify.app/'
+languageCode = 'en-us'
+title = "Nikhil's Blog"
+theme = 'PaperMod'
